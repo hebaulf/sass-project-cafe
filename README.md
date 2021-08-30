@@ -4,7 +4,7 @@
 
 In terminal run:
 
-`npm run -g sass`
+`npm install -g sass`
 
 
 To compile sass to css run:
